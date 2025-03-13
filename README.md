@@ -6,10 +6,11 @@ I'm Tue Dinh, a second-year student at Aalto University. I'm interested in **Mac
 ---
 
 ## 🚀 Skills:
-- **Programming Languages:** Scala, Python, C++, C, JavaScript  
-- **Embedded Systems:** Arduino, Raspberry Pi, ESP32  
-- **Machine Learning:** PyTorch, TensorFlow, OpenCV  
-- **IoT & Wearables:** Bluetooth Low Energy (BLE), Sensor Fusion  
+- **Programming Languages:** Scala, Python, C++, C, JavaScript, SQL, MATLAB  
+- **Embedded Systems:** Arduino, Raspberry Pi, ESP32, Hardware-Level Protocol
+- **Communication Procol:** Hardware-Level (I2C, UART), Network-Level (HTTP), BLE, WiFi
+- **Machine Learning & Data:** PyTorch, TensorFlow, OpenCV, Scikit-learn, Pandas, Numpy  
+- **IoT & Wearables:** Camera Modules, Fabric Sensors, IMU, PIR Sensors, Microphone, Speaker 
 - **Cloud & DevOps:** AWS, Docker, GitHub Actions  
 
 ---
