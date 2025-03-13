@@ -20,11 +20,4 @@ I'm Tue Dinh, a second-year student at Aalto University. I'm interested in **Mac
 ---
 
 
-## 🌍 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ann-blue?logo=linkedin)](https://linkedin.com/in/tuebachdinh)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-My%20Website-green?logo=vercel)](https://your-portfolio-link)  
-![Profile Views](https://komarev.com/ghpvc/?username=tuebachdinh&color=blue)
-
----
-
 
