@@ -1,7 +1,7 @@
 
 # Hello there! 👋  
 
-I'm Ann, a second-year student at Aalto University. I'm interested in **Machine Learning, IoT, and Signal Processing**. I work on projects that combine **Embedded Systems, Machine Learning, and Signal Processing**.
+I'm Tue Dinh, a second-year student at Aalto University. I'm interested in **Machine Learning, IoT, and Signal Processing**. I work on projects that combine **Embedded Systems, Machine Learning, and Signal Processing**.
 
 ---
 
@@ -16,6 +16,9 @@ I'm Ann, a second-year student at Aalto University. I'm interested in **Machine 
 
 ## 📊 My GitHub Stats:
 ![Ann's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuebachdinh&show_icons=true&theme=radical)
+![Fake Commits](https://img.shields.io/badge/Commits-9999-blue?style=for-the-badge)
+![Fake PRs](https://img.shields.io/badge/Pull%20Requests-500-green?style=for-the-badge)
+![Fake Stars](https://img.shields.io/badge/Stars-100-yellow?style=for-the-badge)
 
 ---
 
