@@ -15,12 +15,12 @@ I'm Tue Dinh, a second-year student at Aalto University. I'm interested in **Mac
 ---
 
 ## 🔥 Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuebachdinh&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuebachdinh&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📈 GitHub Activity Graph:
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tuebachdinh&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tuebachdinh&theme=tokyonight)
 
 ---
 
