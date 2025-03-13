@@ -1,5 +1,5 @@
 
-# Hello there! 👋  
+# Hallu! 👋  
 
 I'm Tue Dinh, a second-year student at Aalto University. I'm interested in **Machine Learning, IoT, and Signal Processing**. I work on projects that combine **Embedded Systems, Machine Learning, and Signal Processing**.
 
