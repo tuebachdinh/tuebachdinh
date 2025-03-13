@@ -19,10 +19,6 @@ I'm Tue Dinh, a second-year student at Aalto University. I'm interested in **Mac
 
 ---
 
-## 📈 GitHub Activity Graph:
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tuebachdinh&theme=tokyonight)
-
----
 
 ## 🌍 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ann-blue?logo=linkedin)](https://linkedin.com/in/tuebachdinh)  
@@ -31,18 +27,4 @@ I'm Tue Dinh, a second-year student at Aalto University. I'm interested in **Mac
 
 ---
 
-### ⚡ Fun Fact:
-_"Debugging is like being the detective in a crime movie where you are also the murderer."_
 
-🚀 **Let’s build cool things together!**  
-
----
-
-### ✅ **How to Use:**
-1. Copy and paste this into your **GitHub Profile README** (`tuebachdinh/tuebachdinh` repo).
-2. Edit the **LinkedIn and Portfolio links**.
-3. Push it to GitHub and enjoy your awesome profile!
-
----
-
-Would you like me to add **more customization** like animations or badges? 😊
