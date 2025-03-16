@@ -21,11 +21,9 @@ I'm Tue Dinh, a second-year student at Aalto University. I'm interested in **Mac
 ---
 
 ## 🔥 Most Used Languages:
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tuebachdinh&show_icons=true&theme=white" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuebachdinh&layout=compact&theme=white" />
-</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuebachdinhe&layout=compact&theme=radical)
 
 ---
+## 🌍 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ann-blue?logo=linkedin)](https://linkedin.com/in/bachtuedinh)
+[![Gmail](https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail)](mailto:tue.dinh@aalto.fi)
