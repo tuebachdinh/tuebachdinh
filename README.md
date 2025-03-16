@@ -5,7 +5,7 @@ I'm Tue Dinh, a second-year student at Aalto University. I'm interested in **Mac
 
 ---
 
-## 🚀 Skills:
+## 🚀 Skills: 
 - **Programming Languages:** Scala, Python, C++, C, JavaScript, SQL, MATLAB  
 - **Embedded Systems:** Arduino, Raspberry Pi, ESP32
 - **Communication Procol:** Hardware-Level (I2C, UART), Network-Level (HTTP), BLE, WiFi
