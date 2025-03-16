@@ -15,8 +15,7 @@ I'm Tue Dinh, a second-year student at Aalto University. I'm interested in **Mac
 
 ---
 
-## 📊 My GitHub Stats:
-![Tue's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuebachdinh&show_icons=true&theme=white)
+## 📊 GitHub Stats And 🔥 Most Used Languages:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tuebachdinh&show_icons=true&theme=white" />
@@ -24,11 +23,6 @@ I'm Tue Dinh, a second-year student at Aalto University. I'm interested in **Mac
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuebachdinh&layout=compact&theme=white&card_width=300" />
 </a>
-
----
-
-## 🔥 Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuebachdinh&layout=compact&theme=white)
 
 ---
 ## 🌍 Connect with me:
