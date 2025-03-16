@@ -25,5 +25,5 @@ I'm Tue Dinh, a second-year student at Aalto University. I'm interested in **Mac
 
 ---
 ## 🌍 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ann-blue?logo=linkedin)](https://linkedin.com/in/bachtuedinh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tue-blue?logo=linkedin)](https://linkedin.com/in/bachtuedinh)
 [![Gmail](https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail)](mailto:tue.dinh@aalto.fi)
