@@ -15,6 +15,11 @@ I'm Tue Dinh, a second-year student at Aalto University. I'm interested in **Mac
 
 ---
 
+## 📊 My GitHub Stats:
+![Tue's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuebachdinh&show_icons=true&theme=radical)
+
+---
+
 ## 🔥 Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuebachdinh&layout=compact&theme=radical)
 
