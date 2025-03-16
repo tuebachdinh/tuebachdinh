@@ -24,3 +24,4 @@ I'm Tue Dinh, a second-year student at Aalto University. I'm interested in **Mac
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuebachdinh&layout=compact&theme=white)
 
 ---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuebachdinh)](https://github.com/anuraghazra/github-readme-stats)
