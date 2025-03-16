@@ -21,14 +21,11 @@ I'm Tue Dinh, a second-year student at Aalto University. I'm interested in **Mac
 ---
 
 ## 🔥 Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuebachdinh&layout=compact&theme=white)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tuebachdinh)](https://github.com/anuraghazra/github-readme-stats)
----
-
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuebachdinh&layout=compact&theme=white" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tuebachdinh&show_icons=true&theme=white" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=tuebachdinh" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuebachdinh&layout=compact&theme=white" />
 </a>
+
+---
