@@ -12,7 +12,7 @@ I'm Tue Dinh, a second-year student at Aalto University. I'm interested in **Mac
 - **Machine Learning & Data:** PyTorch, TensorFlow, OpenCV, Scikit-learn, Pandas, Numpy  
 - **IoT & Wearables:** Camera Modules, Fabric Sensors, IMU, PIR Sensors, Microphone, Speaker 
 - **Cloud & DevOps:** AWS, Docker, GitHub Actions  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tuebachdinh&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ## 📊 GitHub Stats And 🔥 Most Used Languages:
