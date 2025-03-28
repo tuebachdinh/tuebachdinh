@@ -23,7 +23,7 @@ I'm Tue Dinh, a second-year student at Aalto University. I'm interested in **AI,
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuebachdinh&layout=compact&theme=white&card_width=300" />
 </a>
-
+ 
 ---
 ## 🌍 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tue-blue?logo=linkedin)](https://linkedin.com/in/bachtuedinh)
