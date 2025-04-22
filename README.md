@@ -1,6 +1,6 @@
 # Hallu! 👋 
 
-I'm Tue Dinh, a second-year student at Aalto University. I'm interested in **AI, IoT, Signal Processing and HealthCare field**. I work on projects that combine **Embedded Systems, Machine Learning, and Signal Processing**.    
+I'm Tue Dinh, a second-year student at Aalto University. I'm interested in **AI, IoT, Signal Processing and HealthCare field**. I work on projects that combine **Embedded Systems, Machine Learning, and Signal Processing**. 
  
 ---
 
