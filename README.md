@@ -7,6 +7,7 @@ I'm Tue Dinh, a third-year student at Aalto University. I'm interested in **AI, 
 ## 🚀 Skills: 
 - **Programming Languages:** Scala, Python, C++, C, JavaScript, SQL, MATLAB
 - **Model Architectures**: MLP, CNN, RNN (LSTM, GRU), Transformer, GNN, Few-shot Learning, PEFT (LoRA)
+- **AI Agents Protocol And Frameworks**: MCP, A2A, LangChain, LangGraph, CrewAI, SmolAgent, AutoGen
 - **Embedded Systems:** Arduino, Raspberry Pi, ESP32
 - **Communication Procol:** Hardware-Level (I2C, UART), Network-Level (HTTP), BLE, WiFi
 - **Machine Learning & Data:** PyTorch, TensorFlow, OpenCV, Scikit-learn, Pandas, Numpy  
