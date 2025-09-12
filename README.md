@@ -4,16 +4,24 @@ I'm Tue Dinh, a third-year student at Aalto University. I'm interested in **AI, 
  
 --- 
 
-## 🚀 Skills: 
-- **Programming Languages:** Scala, Python, C++, C, JavaScript, SQL, MATLAB
-- **Model Architectures**: MLP, CNN, RNN (LSTM, GRU), Transformer, GNN, Few-shot Learning, PEFT (LoRA)
-- **AI Agents Protocol And Frameworks**: MCP, A2A, LangChain, LangGraph, CrewAI, SmolAgent, AutoGen
-- **Embedded Systems:** Arduino, Raspberry Pi, ESP32
-- **Communication Procol:** Hardware-Level (I2C, UART), Network-Level (HTTP), BLE, WiFi
-- **Machine Learning & Data:** PyTorch, TensorFlow, OpenCV, Scikit-learn, Pandas, Numpy  
-- **IoT & Wearables:** Camera Modules, Fabric Sensors, IMU, PIR Sensors, Microphone, Speaker 
-- **Cloud & DevOps:** AWS, Docker, GitHub Actions
-- **Healthcare Features Analysis:** EMG, ECG, BMI, Obesity, Hypertension, Glucose 
+## 🚀 Skills  
+
+### Programming & Software Development  
+- **Languages:** Scala, Python, C++, C, JavaScript, SQL, MATLAB  
+- **Frameworks & Tools:** PyTorch, TensorFlow, OpenCV, Scikit-learn, Pandas, Numpy  
+- **Cloud & DevOps:** AWS, Docker, Git  
+
+### AI & Machine Learning  
+- **Model Architectures:** MLP, CNN, RNN (LSTM, GRU), Transformer, GNN, Few-shot Learning, PEFT (LoRA)  
+- **AI Agents & Frameworks:** MCP, A2A, LangChain, LangGraph, CrewAI, SmolAgent, AutoGen  
+
+### Embedded Systems & IoT  
+- **Hardware Platforms:** Arduino, Raspberry Pi, ESP32  
+- **Sensors & Wearables:** Camera Modules, Fabric Sensors, IMU, PIR Sensors, Microphone, Speaker  
+- **Communication Protocols:** I2C, UART, BLE, WiFi, HTTP  
+
+### Healthcare & Signal Analysis  
+- **Features & Data:** EMG, ECG, PPG, Pulse Wave & Flow / Area, Arterial stiffness (cfPWV)  
 
 ---
 
