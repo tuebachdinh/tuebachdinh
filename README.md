@@ -27,7 +27,7 @@ I'm Tue Dinh, a third-year student at Aalto University. I'm interested in **AI, 
 
 ## 📊 GitHub Stats And 🔥 Most Used Languages:
 [![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=tuebachdinh)](https://github.com/pranesh-2005/github-readme-stats-fast)
-
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tuebachdinh&layout=compact)
 ---
 ## 🌍 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tue-blue?logo=linkedin)](https://linkedin.com/in/bachtuedinh)
