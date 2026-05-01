@@ -16,8 +16,8 @@ I'm Tue Dinh, a third-year student at Aalto University. I'm interested in **AI, 
 - **AI Agents & Frameworks:** MCP, A2A, LangChain, LangGraph, CrewAI, SmolAgent, AutoGen  
 
 ### Embedded Systems & IoT  
-- **Hardware Platforms:** Arduino, Raspberry Pi, ESP32  
-- **Sensors & Wearables:** Camera Modules, Fabric Sensors, IMU, PIR Sensors, Microphone, Speaker  
+- **Hardware Platforms:** Arduino, Raspberry Pi, ESP32, nRF
+- **Sensors & Wearables:** Camera, Fabric Sensors, IMU, PIR Sensors, Microphone, Speaker, mmWave Sensor  
 - **Communication Protocols:** I2C, UART, BLE, WiFi, HTTP  
 
 ### Healthcare & Signal Analysis  
