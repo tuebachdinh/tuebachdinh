@@ -26,14 +26,8 @@ I'm Tue Dinh, a third-year student at Aalto University. I'm interested in **AI, 
 ---
 
 ## 📊 GitHub Stats And 🔥 Most Used Languages:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuebachdinh)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tuebachdinh&show_icons=true&theme=white&v=3" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuebachdinh&layout=compact&theme=white&card_width=300" />
-</a>
- 
 ---
 ## 🌍 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tue-blue?logo=linkedin)](https://linkedin.com/in/bachtuedinh)
