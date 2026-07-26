@@ -18,8 +18,17 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&count_private=true
+          options: username=tuebachdinh&count_private=true
           path: profile/stats.svg
+          token: ${{ secrets.README_STATS_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=tuebachdinh&layout=compact&langs_count=8&card_width=320
+          path: profile/top-langs.svg
           token: ${{ secrets.README_STATS_TOKEN }}
           fail_on_error: true
 
