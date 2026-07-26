@@ -28,13 +28,7 @@ I'm Tue Dinh, a first-year master student at Aalto University. I'm interested in
 
 ## 📊 GitHub Stats And 🔥 Most Used Languages:
 
-<a href="https://github.com/stats-organization/github-stats-extended">
-  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api?username=tuebachdinh" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=tuebachdinh&layout=compact&langs_count=8&card_width=320" />
-</a>
-
+![My GitHub stats](./profile/stats.svg)
 ---
 
 ## 🌍 Connect with me:
