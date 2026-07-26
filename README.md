@@ -12,24 +12,24 @@ I'm Tue Dinh, a first-year master student at Aalto University. I'm interested in
 ### AI & Machine Learning  
 - **Model Architectures:** MLP, CNN, RNN (LSTM, GRU), Transformer, GNN, Few-shot Learning, PEFT (LoRA)  
 - **AI Agents & Frameworks:** MCP, A2A, LangChain, LangGraph, CrewAI, SmolAgent, AutoGen  
-- **Federated Learning:** Graph Total Variation Minimization (GTVMin), Federated k-Means & GMM Clustering, Byzantine Robustness, Differential Privacy  
+- **Federated Learning:** GTVMin, Federated k-Means & GMM Clustering, Byzantine Robustness, Differential Privacy  
 
 ### Embedded Systems & IoT  
 - **Hardware Platforms:** Arduino, Raspberry Pi, ESP32, nRF5340  
-- **Sensors & Wearables:** Camera, Fabric Sensors, IMU, PIR Sensors, Microphone, Speaker, mmWave Radar (Infineon BGT60TR13C)  
+- **Sensors & Wearables:** Camera, Fabric Sensors, IMU, PIR Sensors, Microphone, Speaker, mmWave Radar 
 - **Communication Protocols:** I2C, SPI, UART, BLE, WiFi, HTTP  
-- **Firmware & RTOS:** nRF Connect SDK, Zephyr RTOS — FMCW radar frame generation, hardware bring-up & validation  
-
-### Healthcare & Signal Analysis  
-- **Features & Data:** EMG, ECG, PPG, Pulse Wave & Flow / Area, Arterial stiffness (cfPWV)  
-- **Wearable Architecture:** BLE-based multi-sensor synchronization, open-source hearable systems (OpenEarable 2.0)  
+- **Firmware & RTOS:** nRF Connect SDK, Zephyr RTOS 
 
 ---
 
 ## 📊 GitHub Stats And 🔥 Most Used Languages:
 
-![My GitHub stats](./profile/stats.svg)
----
+<a href="https://github.com/stats-organization/github-stats-extended">
+  <img height=200 align="center" src="./profile/stats.svg" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="./profile/top-langs.svg" />
+</a>---
 
 ## 🌍 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tue-blue?logo=linkedin)](https://linkedin.com/in/bachtuedinh)
